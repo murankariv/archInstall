@@ -40,7 +40,7 @@ python-setuptools
 python3
 python-pip
 python-sphinx
-sdll2-compat
+sdl12-compat
 sdl2
 tlp
 udftools

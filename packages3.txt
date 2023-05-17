@@ -1,7 +1,7 @@
 avahi
 curl
 dnsutils
-ethtools
+ethtool
 filezilla
 firefox
 firewalld
@@ -11,9 +11,9 @@ net-tools
 netctl
 networkmanager
 networkmanager-openvpn
-networkmanager-applet
+network-manager-applet
 nftables
 nm-connection-editor
-mss-mdns
+nss-mdns
 wget
 whois

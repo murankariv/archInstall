@@ -1,12 +1,15 @@
-archlinux-wallpapers
-cantrell-fonts
+archlinux-wallpaper
+cantarell-fonts
+freetype2
 mesa
+mate
+mate-extra
 noto-fonts
 opendesktop-fonts
 ttf-bitstream-vera
 ttf-caladea
 ttf-carlito
-ttf-crosscore
+ttf-croscore
 ttf-dejavu
 ttf-inconsolata
 ttf-liberation
@@ -18,7 +21,7 @@ xfce4-goodies
 lightdm
 xorg
 xorg-apps
-xorg-dirvers
+xorg-drivers
 xorg-xkill
 xorg-xinit
 xterm
