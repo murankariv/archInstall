@@ -23,6 +23,7 @@ hunspell-en_us
 hwdata
 hwdetect
 hwinfo
+libvirt
 linux-headers
 linux-lts-headers
 logrotate
@@ -40,6 +41,7 @@ python-setuptools
 python3
 python-pip
 python-sphinx
+qemu-full
 sdl12-compat
 sdl2
 tlp

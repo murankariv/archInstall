@@ -65,7 +65,7 @@ partclone
 parted
 partimage
 pcsclite
-quemu-guest-agent
+qemu-guest-agent
 reflector
 rsync
 screen
